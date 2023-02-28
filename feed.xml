@@ -3,10 +3,102 @@
     <title>James Koole</title>
     <link href="https://jameskoole.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://jameskoole.github.io/gh-pages" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2023-02-28T12:54:31-05:00</updated>
     <author>
         <name>James Koole</name>
     </author>
     <id>https://jameskoole.github.io/gh-pages</id>
 
+    <entry>
+        <title>Day Trips to Run </title>
+        <author>
+            <name>James Koole</name>
+        </author>
+        <link href="https://jameskoole.github.io/gh-pages/day-trips-to-run/"/>
+        <id>https://jameskoole.github.io/gh-pages/day-trips-to-run/</id>
+
+        <updated>2023-02-28T12:53:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    We were chatting after our long Sunday run recently and the subject of travel to run or race came up. We always talk about various races and cities that we’d like to visit to run in. This time we started thinking about the economics of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We were chatting after our long Sunday run recently and the subject of travel to run or race came up. We always talk about various races and cities that we’d like to visit to run in. This time we started thinking about the economics of just going somewhere for the day to run, vs. going for a few days to do a race.</p>
+<p>Part of this was spurred by the fact I had strongly considered taking the train to Ottawa a couple of weeks ago simply to go for a long run in a different place. The plan I had included hopping the VIA Rail train out in the morning, taking the OTrain downtown, going for a 21km run and then returning to Toronto the same way via OTrain and VIA Rail.</p>
+<p>Total cost for that trip would have been about $250 including the train tickets, transit and a meal or two somewhere along the way in Ottawa. Not bad, honestly.</p>
+<p>We started thinking about whether it would make sense to go further afield and really push things a bit more. I suggested Montreal or Quebec City, but Miguel was thinking further - Halifax. My method of transportation was generally the train, but the time spent on our not-so-fast corridor services with VIA Rail really eats into the day. Flights, on the other hand…</p>
+<p>Depending on the day, we could fly Toronto to Halifax for about $230 return. That would be about the same cost as my Ottawa trip, but quite a different experience. Flying from the downtown airport in Toronto would mean we could easily get there on transit for a couple of bucks.</p>
+<p>The Halifax side would be a bit more complicated, but if three or four of us went, splitting a cab or Uber from the airport to downtown wouldn’t be too expensive. If we grabbed the first flight of the day, we could be in downtown Halifax by just after noon local time. A two hour run around town would have us back in time for a late lunch/early dinner somewhere and plenty of time to catch a 7:25 P.M. back to Toronto around 10:15 P.M.</p>
+<p>Total spend on a trip like that would be something like $350 per person which is far less than a marathon race weekend would cost. The key to this would be finding a cheap flight and avoiding an overnight stay. Something to think about for sure!</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Switching Instances</title>
+        <author>
+            <name>James Koole</name>
+        </author>
+        <link href="https://jameskoole.github.io/gh-pages/switching-instances/"/>
+        <id>https://jameskoole.github.io/gh-pages/switching-instances/</id>
+
+        <updated>2023-02-28T12:53:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I started out on mastodon.social back in 2018 and sometime after that, deleted my account. I re-created it in March, 2022 when the drama with Elon and Twitter started. When I quit Twitter late in the fall, I decided to move to a smaller instance&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I started out on mastodon.social back in 2018 and sometime after that, deleted my account. I re-created it in March, 2022 when the drama with Elon and Twitter started. When I quit Twitter late in the fall, I decided to move to a smaller instance for a variety of reasons.</p>
+<p>That instance was <a href="https://indieweb.social">indieweb.social</a> and I opted for that instance because I liked the community there which seemed aligned with my thoughts on the open web. The local feed was one of the best parts of being on that instance for first little while. It was not exclusively about open/indieweb topics, but it sure leaned that way.</p>
+<p>But as the instance grew, the indieweb part seemed to fade quite a bit. And I wasn’t helping either. My posts tended to be more about running than indieweb stuff which left me wondering if I belonged there. The value of the local feed was diminishing a bit for me and I started considering a move either to a new instance or back to mastodon.social.</p>
+<p>I thought about going to <a href="https://mstdn.ca">mstdn.ca</a> (the “Canadian” instance) and also about going to the corporate instance my employer runs. But the more I thought about it, the more sense it made to head to <a href="https://mastodon.social">mastodon.social</a>.</p>
+<p>Earlier today I <a href="https://mastodon.social/@jameskoole">made the switch back</a> with the migration tool and redirect feature that Mastodon offers. It all worked pretty nicely, although I had to manually recreate some filters. My old profile on indieweb.social is redirecting and I set it to delete posts over 6 months old so by the summer it’ll be blank and I can probably just delete it.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Thanks Elon!</title>
+        <author>
+            <name>James Koole</name>
+        </author>
+        <link href="https://jameskoole.github.io/gh-pages/thanks-elon/"/>
+        <id>https://jameskoole.github.io/gh-pages/thanks-elon/</id>
+
+        <updated>2023-02-28T12:54:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I’m not really surprised. In fact, I’m surprised it took this long. Back when Elon bought Twitter, one of the first things I did was to start using the official iOS Twitter app. I kept Tweetbot on my phone, but I used Twitter instead full-time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I’m not really surprised. In fact, I’m surprised it took this long.</p>
+<p>Back when Elon bought Twitter, one of the first things I did was to start using the official iOS Twitter app. I kept <a href="https://tapbots.com/tweetbot/">Tweetbot</a> on my phone, but I used Twitter instead full-time because my assumption was that at some point third-party apps were going to be banned.</p>
+<p>My use of the official Twitter app was fairly short-lived. The app sucks, to be quite frank. The algorithmic timeline is completely terrible and the injection of ads and sponsored tweets made it even worse. Even the act of composing a tweet was subpar.</p>
+<p>I had been a Tweetbot user for the better part of a decade. To me, Tweetbot was Twitter. The chronological timeline, free of ads, and consisting entirely of the tweets and retweets of the people I followed and nothing else, was the epitome of the Twitter experience.</p>
+<p>But good old Elon has decided that Tweetbot and all the rest of the third-party apps must go! Perhaps he’s jealous of the higher quality of Tweetbot, <a href="https://twitterrific.com/beyond">Twitterrific</a> and others. Whatever the case, Tweetbot is cut off at the API and dead. RIP.</p>
+<h3 id="enter-mastodon">Enter Mastodon</h3>
+<p>Fortunately, I stopped using Tweetbot months ago when I deactivated my Twitter account in favour of Mastodon. I was lucky that I had started following <a href="http://@paul@tapbots.social">Paul</a> and <a href="@mark@tapbots.social">Mark</a> from <a href="https://www.tapbots.com">Tapbots</a> on Mastodon mostly so I could stay up-to-date on the happenings with Twitter and Tweetbot.</p>
+<p>I figured the first place that I would learn about the death of third-party apps at the hand of Elon would be from the Tweetbot people. The fact they had gone to the trouble of setting up a <a href="https://tapbots.social">Mastodon instance for Tapbots</a> was a very good sign that something was brewing.</p>
+<p>More fortunately, I was able to get one of the few TestFlight slots on the very first day that their new app, Ivory for Mastodon, was revealed. It felt instantly like home. It was Tweetbot-like, but still true to Mastodon - familiar, but different and not at all in an uncanny-valley way.</p>
+<p><a href="https://tapbots.com/ivory/">Ivory</a> is wildly good. Along with the recent influx of the tech community into Mastodon, the existence of Ivory has made the transition from Twitter to Mastodon quite easy.</p>
+<h3 id="you-waited-too-long-elon">You Waited Too Long, Elon</h3>
+<p>I shudder to think of what things would be like if Mastodon wasn’t a thing and if new apps like Ivory weren’t around. Quitting Twitter was made far more palatable because there was a viable alternative.</p>
+<p>Perhaps the biggest mistake that Elon made was waiting too long to kill off the third-party apps. By the time he pulled the trigger last week, we all knew Ivory was on the way and the momentum was quickly building on Mastodon.</p>
+<h3 id="back-in-time">Back in Time</h3>
+<p>In many ways it feels like we’ve been transported back in time about 10 or 12 years to when Twitter was new and the web was still a place where we all built our own sites and blogs. Mastodon has rekindled that sense in a lot of people of late. We watched as wall-gardens were built up and destroyed the indie web that we all loved.</p>
+<p>But now we have a chance to do it all over again and do it right. Mastodon is like Twitter, but built on open standards and federated. People are thinking about blogging again and bringing back their sites on their own domain names.</p>
+<p>I’m starting to really question whether the remaining walled gardens are something I’m willing to continue to contribute my content and attention to. I’ve all but quit Instagram and haven’t used Facebook in years and years. I don’t have a TikTok and don’t plan to get one anytime soon.</p>
+<p>Maybe the best thing to come out of Elon buying Twitter is that those of us who adopted Twitter back in the early days will be reminded of what we loved about the web back then. Will Elon kill Twitter completely? Probably not. But does it really matter anymore?</p>
+<p>He’s already done enough to drive the nerds and internet junkies over to Mastodon. The indie devs are excitedly building apps that leverage open APIs and can’t be shut down by one stupid childish man. It’s the return of the internet we all knew and loved.</p>
+<p>And for that, I say “thank you” to Elon. You deserve none of the credit for your own ineptitude, but the internet thanks you anyway.</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
