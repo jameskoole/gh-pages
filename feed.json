@@ -19,9 +19,10 @@
                 "name": "James Koole"
             },
             "tags": [
+                   "Running"
             ],
             "date_published": "2023-02-20T12:51:00-05:00",
-            "date_modified": "2023-02-28T12:53:41-05:00"
+            "date_modified": "2023-02-28T12:57:02-05:00"
         },
         {
             "id": "https://jameskoole.github.io/gh-pages/switching-instances/",
@@ -33,9 +34,10 @@
                 "name": "James Koole"
             },
             "tags": [
+                   "Open Web"
             ],
             "date_published": "2023-02-09T20:56:00-05:00",
-            "date_modified": "2023-02-28T12:53:21-05:00"
+            "date_modified": "2023-02-28T12:56:54-05:00"
         },
         {
             "id": "https://jameskoole.github.io/gh-pages/thanks-elon/",
@@ -47,9 +49,25 @@
                 "name": "James Koole"
             },
             "tags": [
+                   "Open Web"
             ],
             "date_published": "2023-01-20T12:54:00-05:00",
-            "date_modified": "2023-02-28T12:54:31-05:00"
+            "date_modified": "2023-02-28T12:56:45-05:00"
+        },
+        {
+            "id": "https://jameskoole.github.io/gh-pages/algos-photos-and-social/",
+            "url": "https://jameskoole.github.io/gh-pages/algos-photos-and-social/",
+            "title": "Algos, Photos and Social",
+            "summary": "It looks like Twitter (aka Elon) killed off most third-party apps the other day. That’s not a big deal for me since I quit using Twitter a few weeks back. The goal appears to be to push all users to the Twitter iOS app and&hellip;",
+            "content_html": "<p>It looks like Twitter (aka Elon) killed off most third-party apps the other day. That’s not a big deal for me since I quit using Twitter a few weeks back. The goal appears to be to push all users to the Twitter iOS app and to push the algorithmic timeline over the chronological one.</p>\n<p>Over on Instagram, the same thing has happened except there aren’t any third-party apps to kill off. The algorithmic timeline is king and that has me really considering dropping Instagram from my life as well.</p>\n<p>I have two accounts on Insta. My <a href=\"https://www.instagram.com/jameskooleto/\">personal account</a> I use to follow some friends and occasionally I’ll follow some accounts to get me hyped up for a vacation or event. For example, I added a bunch of photographers from in and around the Canmore and Banff areas recently ahead of our trip there over the Christmas break.</p>\n<p>I have <a href=\"https://www.instagram.com/tracksidetoronto/\">another account</a> that I used to use to post my rail photography. That account has something like 750 followers but I haven’t done much with it lately since I haven’t been out to do much rail photography really since the start of the pandemic.</p>\n<p>The problem with Instagram is that a few years ago they decided that users should be seeing more than just the photos their friends are posting. That “more” includes ads, suggested posts and recently, Reels.</p>\n<p>I mostly don’t care about the ads or Reels and Instagram is pretty bad at suggesting posts. It’s all junk. The real issue is that Meta needs to make more money and it’s pushing more of the crap I don’t want at me and less of the photos that I do want to see.</p>\n<p>Opening the Instagram app now is mostly a waste of time. I might see a new photo from a friend, although it’s more likely going to be a “story”. I will for sure see a crap load of suggested posts, a crap load of ads and a bunch of Reels that I don’t care about.</p>\n<h3 id=\"what-about-pixelfed\">What About PixelFed?</h3>\n<p>Some have suggested <a href=\"https://pixelfed.org\">PixelFed</a> as the solution. I’ve tried PixelFed but there are a few problems with it, from my perspective.</p>\n<ol>\n<li>They are trying to mimic Instagram. The app (in beta) is basically a rip-off of the Instagram UI. They also <a href=\"https://pixelfed.social\">don’t allow browsing without an account</a> which is user-hostile and a dark pattern to get users to create an account. Gross.</li>\n<li>Nobody I know uses it. The content on PixelFed is okay, but the reason I used Instagram was to see photos from my friends. They aren’t on PixelFed.</li>\n</ol>\n<p>I could post photos to PixelFed and try and get some friends to hop on as well. There’s a chicken and egg thing there for sure. But is that going to be successful? I don’t know.</p>\n<h3 id=\"how-about-mastodon\">How About Mastodon?</h3>\n<p>I could also just post my photos to Mastodon now and then and thanks to the wonders of ActivityPub and federation, I can just follow PixelFed users in Ivory or on the web version of Mastodon.</p>\n<p>Most likely I’m going to stop bothering with Instagram and start posting more photos either directly to Mastodon or to my blog (and then linked on Mastodon). I think the single, federated account is the right way to go for me with posts that are test, photos and links.</p>\n",
+            "author": {
+                "name": "James Koole"
+            },
+            "tags": [
+                   "Open Web"
+            ],
+            "date_published": "2023-01-14T15:21:00-05:00",
+            "date_modified": "2023-02-28T12:56:38-05:00"
         }
     ]
 }
