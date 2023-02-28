@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>James Koole</title>
-    <link href="https://jameskoole.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://jameskoole.github.io/gh-pages" />
+    <link href="https://www.jameskoole.com/feed.xml" rel="self" />
+    <link href="https://www.jameskoole.com" />
     <updated>2023-02-28T12:57:02-05:00</updated>
     <author>
         <name>James Koole</name>
     </author>
-    <id>https://jameskoole.github.io/gh-pages</id>
+    <id>https://www.jameskoole.com</id>
 
     <entry>
         <title>Day Trips to Run </title>
         <author>
             <name>James Koole</name>
         </author>
-        <link href="https://jameskoole.github.io/gh-pages/day-trips-to-run/"/>
-        <id>https://jameskoole.github.io/gh-pages/day-trips-to-run/</id>
+        <link href="https://www.jameskoole.com/day-trips-to-run/"/>
+        <id>https://www.jameskoole.com/day-trips-to-run/</id>
             <category term="Running"/>
 
         <updated>2023-02-28T12:57:02-05:00</updated>
@@ -42,8 +42,8 @@
         <author>
             <name>James Koole</name>
         </author>
-        <link href="https://jameskoole.github.io/gh-pages/switching-instances/"/>
-        <id>https://jameskoole.github.io/gh-pages/switching-instances/</id>
+        <link href="https://www.jameskoole.com/switching-instances/"/>
+        <id>https://www.jameskoole.com/switching-instances/</id>
             <category term="Open Web"/>
 
         <updated>2023-02-28T12:56:54-05:00</updated>
@@ -68,8 +68,8 @@
         <author>
             <name>James Koole</name>
         </author>
-        <link href="https://jameskoole.github.io/gh-pages/thanks-elon/"/>
-        <id>https://jameskoole.github.io/gh-pages/thanks-elon/</id>
+        <link href="https://www.jameskoole.com/thanks-elon/"/>
+        <id>https://www.jameskoole.com/thanks-elon/</id>
             <category term="Open Web"/>
 
         <updated>2023-02-28T12:56:45-05:00</updated>
@@ -109,8 +109,8 @@
         <author>
             <name>James Koole</name>
         </author>
-        <link href="https://jameskoole.github.io/gh-pages/algos-photos-and-social/"/>
-        <id>https://jameskoole.github.io/gh-pages/algos-photos-and-social/</id>
+        <link href="https://www.jameskoole.com/algos-photos-and-social/"/>
+        <id>https://www.jameskoole.com/algos-photos-and-social/</id>
             <category term="Open Web"/>
 
         <updated>2023-02-28T12:56:38-05:00</updated>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://jameskoole.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.jameskoole.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://jameskoole.github.io/gh-pages/</loc>
+<loc>https://www.jameskoole.com/</loc>
 </url>
 <url>
-<loc>https://jameskoole.github.io/gh-pages/algos-photos-and-social/</loc>
+<loc>https://www.jameskoole.com/algos-photos-and-social/</loc>
 <lastmod>2023-02-28T12:56:38-05:00</lastmod>
 </url>
 <url>
-<loc>https://jameskoole.github.io/gh-pages/day-trips-to-run/</loc>
+<loc>https://www.jameskoole.com/day-trips-to-run/</loc>
 <lastmod>2023-02-28T12:57:02-05:00</lastmod>
 </url>
 <url>
-<loc>https://jameskoole.github.io/gh-pages/switching-instances/</loc>
+<loc>https://www.jameskoole.com/switching-instances/</loc>
 <lastmod>2023-02-28T12:56:54-05:00</lastmod>
 </url>
 <url>
-<loc>https://jameskoole.github.io/gh-pages/thanks-elon/</loc>
+<loc>https://www.jameskoole.com/thanks-elon/</loc>
 <lastmod>2023-02-28T12:56:45-05:00</lastmod>
 </url>
 </urlset>
